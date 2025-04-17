@@ -6,7 +6,7 @@ import {
 } from 'react-router-dom'
 
 // layouts and pages
-import AppLayout from './hoc/AppLayout'
+import AppLayout from './layout/AppLayout'
 import Account from './pages/Account'
 import Dashboard from './pages/Dashboard'
 import NewTask from './pages/NewTask'
